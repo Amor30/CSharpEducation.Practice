@@ -1,4 +1,6 @@
-﻿namespace Task6A
+﻿using System;
+
+namespace Task6A
 {
     internal class Program
     {

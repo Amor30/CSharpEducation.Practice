@@ -1,4 +1,6 @@
-﻿namespace Task3A
+﻿using System;
+
+namespace Task3A
 {
     internal class Program
     {

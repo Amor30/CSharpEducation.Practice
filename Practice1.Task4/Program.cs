@@ -1,4 +1,6 @@
-﻿namespace Task4A
+﻿using System;
+
+namespace Task4A
 {
     internal class Program
     {
